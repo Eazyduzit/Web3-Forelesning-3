@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<movies>
+    <movie>
+        <id>1000</id>
+        <title>Batman vs. Supeman</title>
+        <description>Batman og Superman slåss for harde livet!</description>
+        <imageSrc>batman-vs-superman.jpg</imageSrc>
+    </movie>
+    <movie>
+        <id>1001</id>
+        <title>Star Trek</title>
+        <description>Aliens kommer og går og flyr.</description>
+        <imageSrc>star-trek-beyond.jpg</imageSrc>
+    </movie>
+    <movie>
+        <id>1002</id>
+        <title>X-men Apocalypse</title>
+        <description>Folk med "spesielle" evner slåss rundt omkring.</description>
+        <imageSrc>xmen-apocalypse.jpg</imageSrc>
+    </movie>
+</movies>
